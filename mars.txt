@@ -7,3 +7,5 @@ Hi Andrews
 
 Does this mean we can go home now then?
 Hopefully
+
+Can we go home (Y/N)
